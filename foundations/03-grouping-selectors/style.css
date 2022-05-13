@@ -1,0 +1,13 @@
+.clickme {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.clickme.two {
+    background-color: goldenrod;
+}
+
+.clickme.one{
+    background-color: black;
+    color: white;
+}
